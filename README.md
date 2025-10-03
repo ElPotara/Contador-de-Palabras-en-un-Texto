@@ -1,5 +1,4 @@
-# Contador-de-Palabras-en-un-Texto
-# 📊 Textalyzer: Descubre las Historias Ocultas en tus Palabras
+# 📊 Contador de Palabras en un Texto: Descubre las Historias Ocultas en tus Palabras
 
 Cada texto tiene un ritmo, un patrón, una historia que contar más allá de las frases. **Contador de Palabras en un Texto** es tu lupa personal para analizar cualquier texto y descubrir su composición. ¿Qué palabras usas más? ¿Cuáles son las ideas clave de un artículo? Descúbrelo en segundos.
 
@@ -28,7 +27,3 @@ Esta herramienta es indispensable para escritores, estudiantes, especialistas en
     ```bash
     python contador_palabras.py
     ```
-
-### 🎬 Mira cómo Funciona
-
-Simplemente introduce tu texto cuando se te solicite:
